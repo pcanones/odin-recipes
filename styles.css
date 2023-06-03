@@ -1,0 +1,39 @@
+/* CSS Page for Odin-Recipes webpage
+   Written by Patrick Canones
+   05/29/2023
+*/
+
+* {
+    border: 2px solid black;
+    font-family: sans-serif;
+    padding: .5em;
+}
+
+body {
+    border: none;
+}
+
+h1 {
+    display: flex;
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 18px;
+    
+}
+ol, ul {
+    display: block;
+
+}
+
+li {
+    border: none;
+    
+}
+
+.pic {
+    width: 400px;
+    height: auto;
+    padding: 0em;
+}
